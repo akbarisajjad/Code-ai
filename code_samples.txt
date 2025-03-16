@@ -1,0 +1,16 @@
+# Example 1: Python function to add two numbers
+def add(a, b):
+    return a + b
+
+# Example 2: JavaScript function to multiply two numbers
+function multiply(a, b) {
+    return a * b;
+}
+
+# Example 3: Python class for a simple calculator
+class Calculator:
+    def add(self, a, b):
+        return a + b
+
+    def multiply(self, a, b):
+        return a * b
